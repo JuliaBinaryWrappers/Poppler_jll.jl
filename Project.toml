@@ -1,6 +1,6 @@
 name = "Poppler_jll"
 uuid = "9c32591e-4766-534b-9725-b71a8799265b"
-version = "0.87.0+1"
+version = "0.87.0+2"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
