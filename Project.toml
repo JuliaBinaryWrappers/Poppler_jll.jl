@@ -1,6 +1,6 @@
 name = "Poppler_jll"
 uuid = "9c32591e-4766-534b-9725-b71a8799265b"
-version = "0.87.0+2"
+version = "21.9.0+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
@@ -16,5 +16,8 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 libpng_jll = "b53b4c65-9356-5827-b1ea-8c7a1a84506f"
 
 [compat]
-JLLWrappers = "1.1.0"
-julia = "1.0"
+JLLWrappers = "1.2.0"
+julia = "1.6"
+Cairo_jll = "1.16.1"
+Libtiff_jll = "4.3.0"
+Glib_jll = "2.68.1"

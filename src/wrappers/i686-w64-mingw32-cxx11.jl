@@ -9,7 +9,7 @@ using Libtiff_jll
 using OpenJpeg_jll
 using libpng_jll
 JLLWrappers.@generate_wrapper_header("Poppler")
-JLLWrappers.@declare_library_product(libpoppler, "libpoppler-98.dll")
+JLLWrappers.@declare_library_product(libpoppler, "libpoppler-113.dll")
 JLLWrappers.@declare_library_product(libpoppler_cpp, "libpoppler-cpp-0.dll")
 JLLWrappers.@declare_library_product(libpoppler_glib, "libpoppler-glib-8.dll")
 JLLWrappers.@declare_executable_product(pdfattach)
@@ -28,7 +28,7 @@ function __init__()
     JLLWrappers.@generate_init_header(Cairo_jll, Fontconfig_jll, Glib_jll, JpegTurbo_jll, Libtiff_jll, OpenJpeg_jll, libpng_jll)
     JLLWrappers.@init_library_product(
         libpoppler,
-        "bin\\libpoppler-98.dll",
+        "bin\\libpoppler-113.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
