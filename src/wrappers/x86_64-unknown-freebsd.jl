@@ -3,13 +3,15 @@ export libpoppler, libpoppler_cpp, libpoppler_glib, pdfattach, pdfdetach, pdffon
 
 using Cairo_jll
 using Fontconfig_jll
+using FreeType2_jll
 using Glib_jll
 using JpegTurbo_jll
+using LibCURL_jll
 using Libtiff_jll
 using OpenJpeg_jll
 using libpng_jll
 JLLWrappers.@generate_wrapper_header("Poppler")
-JLLWrappers.@declare_library_product(libpoppler, "libpoppler.so.113")
+JLLWrappers.@declare_library_product(libpoppler, "libpoppler.so.133")
 JLLWrappers.@declare_library_product(libpoppler_cpp, "libpoppler-cpp.so.0")
 JLLWrappers.@declare_library_product(libpoppler_glib, "libpoppler-glib.so.8")
 JLLWrappers.@declare_executable_product(pdfattach)
@@ -25,7 +27,7 @@ JLLWrappers.@declare_executable_product(pdftops)
 JLLWrappers.@declare_executable_product(pdftotext)
 JLLWrappers.@declare_executable_product(pdfunite)
 function __init__()
-    JLLWrappers.@generate_init_header(Cairo_jll, Fontconfig_jll, Glib_jll, JpegTurbo_jll, Libtiff_jll, OpenJpeg_jll, libpng_jll)
+    JLLWrappers.@generate_init_header(Cairo_jll, Fontconfig_jll, FreeType2_jll, Glib_jll, JpegTurbo_jll, LibCURL_jll, Libtiff_jll, OpenJpeg_jll, libpng_jll)
     JLLWrappers.@init_library_product(
         libpoppler,
         "lib/libpoppler.so",
