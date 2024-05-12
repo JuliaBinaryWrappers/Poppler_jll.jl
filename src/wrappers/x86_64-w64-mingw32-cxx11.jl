@@ -11,8 +11,8 @@ using Libtiff_jll
 using OpenJpeg_jll
 using libpng_jll
 JLLWrappers.@generate_wrapper_header("Poppler")
-JLLWrappers.@declare_library_product(libpoppler, "libpoppler-133.dll")
-JLLWrappers.@declare_library_product(libpoppler_cpp, "libpoppler-cpp-0.dll")
+JLLWrappers.@declare_library_product(libpoppler, "libpoppler-137.dll")
+JLLWrappers.@declare_library_product(libpoppler_cpp, "libpoppler-cpp-1.dll")
 JLLWrappers.@declare_library_product(libpoppler_glib, "libpoppler-glib-8.dll")
 JLLWrappers.@declare_executable_product(pdfattach)
 JLLWrappers.@declare_executable_product(pdfdetach)
@@ -30,13 +30,13 @@ function __init__()
     JLLWrappers.@generate_init_header(Cairo_jll, Fontconfig_jll, FreeType2_jll, Glib_jll, JpegTurbo_jll, LibCURL_jll, Libtiff_jll, OpenJpeg_jll, libpng_jll)
     JLLWrappers.@init_library_product(
         libpoppler,
-        "bin\\libpoppler-133.dll",
+        "bin\\libpoppler-137.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libpoppler_cpp,
-        "bin\\libpoppler-cpp-0.dll",
+        "bin\\libpoppler-cpp-1.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

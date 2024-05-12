@@ -11,8 +11,8 @@ using Libtiff_jll
 using OpenJpeg_jll
 using libpng_jll
 JLLWrappers.@generate_wrapper_header("Poppler")
-JLLWrappers.@declare_library_product(libpoppler, "libpoppler.so.133")
-JLLWrappers.@declare_library_product(libpoppler_cpp, "libpoppler-cpp.so.0")
+JLLWrappers.@declare_library_product(libpoppler, "libpoppler.so.137")
+JLLWrappers.@declare_library_product(libpoppler_cpp, "libpoppler-cpp.so.1")
 JLLWrappers.@declare_library_product(libpoppler_glib, "libpoppler-glib.so.8")
 JLLWrappers.@declare_executable_product(pdfattach)
 JLLWrappers.@declare_executable_product(pdfdetach)
