@@ -1,288 +1,288 @@
 [[Poppler]]
 arch = "aarch64"
-git-tree-sha1 = "7d4786eb23cf325f3e8db69bc67a18c3dc2d690d"
+git-tree-sha1 = "e8f372caed0f264b411f4f5b182769ee0529541e"
 os = "macos"
 
     [[Poppler.download]]
-    sha256 = "dbacb90b48509a422038deb441916777515224977114a4f9d71d2d9287dd69b0"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "070b4dd22f3bb515d3fc61ee1d8628d93777e4a7ee65a33164e6406e52645cdf"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.aarch64-apple-darwin.tar.gz"
 [[Poppler]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d4bf530d3872c9e7a0a68b6f70fdba13fcbf6ac9"
+git-tree-sha1 = "b8aa3fd4493b1660f6248cb7adc0b2f0bdecaa13"
 libc = "glibc"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "7acf629a78b390aead6c182b3f3847eff4a1f67fa75ffbe6e74c68f07bf1ddf9"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "493e4a32aaa7f4331df4b8f9994ca4bbc377e755463c09a7fa6f7cc8946a5dce"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[Poppler]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a4b4cdb0d209d2c0f0c2c3cbd9ecd8e4587011c0"
+git-tree-sha1 = "e868ca34612ba912a088b1aaa08bdede353859f4"
 libc = "glibc"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "aaed4c49032a2ad53f7faf49a452ca07d5d1d467d0403e56b5060ca95e4c314c"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "927a3e0fa43beed04693ac85ed167d72ffaf6f48198d9d94b6929f6ea8dc7a6a"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[Poppler]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "53932c0782908659c44c8e6e66999df6117dc2c9"
+git-tree-sha1 = "7f23ba5e49632dbd727619dd26acff0e813a7c2d"
 libc = "musl"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "8638c3cd044cf50647805b46d364e164484c9b3b2c5c14e7cfb6444c2d482eba"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "ec9f5102ad6b4a6a24f7a5b19ec682ab046bb06303b131c2954852ee8ea37cb7"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.aarch64-linux-musl-cxx03.tar.gz"
 [[Poppler]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ae47960dcd7443a99b91bea15d2c539272ac8b0a"
+git-tree-sha1 = "6c87e6af93f0c21e24f29ad8bbed887918ed4f7e"
 libc = "musl"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "4cfdfcca0219fde94d0fe1fc8cf026c55141e3ac0e2ea12943451106ca4b9b8c"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "2aa7999f039ed1f97912bb0affb046d5a408e55564c301d1df57f71d64d5fd7e"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.aarch64-linux-musl-cxx11.tar.gz"
 [[Poppler]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b1ab5447ff93e3c47bf87d5abd3aeb4977564db2"
+git-tree-sha1 = "4738568a9d7489f8bdb06442b19e8afe4e4fb83b"
 libc = "glibc"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "01b406353002af41ee196e2d203ab2f81e4fb72366cc236842f2f6eb6f44264e"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "21c21013bf05de4fb76f7a58faa7abde41259fe3bcedb83892f9219ae91ad654"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[Poppler]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6868a11bdf35d55bdfa232719c8414745c00965d"
+git-tree-sha1 = "e1204047d8ff482bcbc97b4bb69e0dbf2877aaf4"
 libc = "glibc"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "f584ed563da373a5aeeb3f37d840bf8f897ef0c392fcc2b827e1481685fd03b5"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "20da3441b656cfe6482598f1bca2efeca113ec66d997036cc813a7bc3c56c227"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[Poppler]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dafb4a13ff8e53b3bfe2870bc6dd34f1104dc33a"
+git-tree-sha1 = "98e75c524b9b1bdfc0b9829b9cc9df3fe56dff5d"
 libc = "musl"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "9c586830d46f39e985d618f034c746b0fd61990f02203eec3ce3000d69d42a4c"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "9322d63b2ce91e9f1e8a7bc147db6442fd34f6bfbbb84836fe554ea7b8ab1bc9"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[Poppler]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e8532c7f192dcda0fa7f06c12f532dcb29d4f407"
+git-tree-sha1 = "03fb82ba329742294c4bc4b922053cf40e82ed29"
 libc = "musl"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "904aefc7ba152ecb44f9adadeab49922ee57cb92d3bc88bafb0a3d5a11934a3c"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "dbf71401fa2fa04fb1476a86108a227a0cda163ecdfcc11729581e49c8f13ad5"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[Poppler]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cf7b4b102319e12ef2b86f581f8b0a50c75d5ffc"
+git-tree-sha1 = "17908fc2c726c3150556cf5a45dfd6c1b69c92cb"
 libc = "glibc"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "cef87ebaded8724c4e7e034d32f7cbb395694dfb46c87535f26b57d50ca025dd"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "59593fe5cf82399f29635f84736f501e45c10320e215be3036c8e25859dd5e5d"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Poppler]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9789d80764621b67bb12bd0035bbd4f9a2730d9a"
+git-tree-sha1 = "5c3a3aeffcf1355522a41e8adef7088d11829ecf"
 libc = "glibc"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "3d8e2a49e9e4d805ae1c15f7a17ed71603ac462839bcd9a99e0d8ebc925be677"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "3ac29e2b6bd539740b83e49c61eaf20b148be3df81340398bf3ac27a2c56e22f"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Poppler]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "55c2ab883494ae763a33919260810fcf974b372f"
+git-tree-sha1 = "3d541a1c47819f473dc647ae47d38781293ff3f5"
 libc = "musl"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "788b5a83c7252f4bb5978d498590cd42491910e994fadb9297c69590a3226d08"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "432dd96b59835db648a4fd82e835a6544a225dec3588345af751e92a69f957e1"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[Poppler]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dc9748a7cbb1a260ca7dcf566b885c4728c3fb94"
+git-tree-sha1 = "e4a308367e7a1a1ea66b655eb40d91a550d9f444"
 libc = "musl"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "6f117a6d5bc3e3467301dc20ab4d79910b9e65a8f43ebd813c7335a9ebb15de1"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "9e5a8df2a778e2f0d998b846486544fb272a6ba51fe8f8939d57992fa4332f01"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Poppler]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5415efcf2453a2d2ac1a34428967ffe8e1491128"
+git-tree-sha1 = "623ad67ef11f23a6b976e992a5444f272edf1d1f"
 libc = "glibc"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "7afc8591dcc718f4199625c73c4e86fd83395bcaf8afae9d02eed950a7762625"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "b57451197d1db88a5b5fa2437931b869dec8fd14ecbb1e4e43185f327c93ce83"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.i686-linux-gnu-cxx03.tar.gz"
 [[Poppler]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "94209d828ffaef122ae5a511f5b63fa357679b3b"
+git-tree-sha1 = "b2b90953014dc39aca16263eb3a60516b84c447d"
 libc = "glibc"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "f1921f17292e48983170a42f6d6325ae69612470b68cb1aa47dc44530b015f0e"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "5cb41ab4dbefcebf8be56791c8fd3ac34e80bf4f9455b854d5d0aead72021e6a"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.i686-linux-gnu-cxx11.tar.gz"
 [[Poppler]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "66b81f8bb66d473170fac6087b325eb9be940322"
+git-tree-sha1 = "4989945311c764391e22dac873cc6749ffcef1d1"
 libc = "musl"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "3fd9e54d2617273616966110cce4be3371215a7f56dd882eec6145ca8cf2ea5c"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "ce2327773d87bcfa3c3fad1060e5256124d2393bf056eb0c8c9a1473a47fa28f"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.i686-linux-musl-cxx03.tar.gz"
 [[Poppler]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "261d9be718a6047d39d9f60bbe37d038e59d0c95"
+git-tree-sha1 = "2a095c94ce5505fb986c959726bcaa2aa530a8f5"
 libc = "musl"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "00df16b60e12d4e8da66a05d2240cf833cc8be8f9b57266cbcce0530fceb1961"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "c95ff52edd2bdaa88dcc91041ab0b7ed2a5352afad69672a8321a4727a6c668b"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.i686-linux-musl-cxx11.tar.gz"
 [[Poppler]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4d76bc2e07e671f1abcb1a0263bce56b893690e1"
+git-tree-sha1 = "4380fe2959b6fd7e2fc21d6dbf1b678b7fd15008"
 os = "windows"
 
     [[Poppler.download]]
-    sha256 = "7f07b42496183ee990319e0d81de410e9a0cf76f1a073ae3c16ec1a94641a1d0"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "dc079baaa8eab444379113b191ad8f1717d567c62dc61f529893f5e76f9ca0ae"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.i686-w64-mingw32-cxx03.tar.gz"
 [[Poppler]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "06c55d5bee5c45e5af117aefa4c0ededb4424fbf"
+git-tree-sha1 = "0c46f4b9380ae841b1f738248fe865e11426ba9b"
 os = "windows"
 
     [[Poppler.download]]
-    sha256 = "99402f29066b5a50276972f32c4a963f5d4ff446af44dae3badab7830f727e9e"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "0acc3fe38760a8c85a7dae2f85dd5a943fe32c7e9ba7ee5edbb32609de06486b"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.i686-w64-mingw32-cxx11.tar.gz"
 [[Poppler]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7399284c00dcad78ee1ab4ba23a37e09c27c01a6"
+git-tree-sha1 = "68d94dcae5f28c6a9d5e94ea47f673b5e6350ebb"
 libc = "glibc"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "baa4dd097fd2d3716c7995987cade713c93d943f4a4d2eff3fad6244b19c93ba"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "cad0b7a24ff51a0bf19f7feffc677bf6fb627d4b97fc12de4a939c6680db30d4"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[Poppler]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2facc7220326b8faf888b8d25ed253c9e2fb6363"
+git-tree-sha1 = "48b6cdfbf13e6a76b8bbd9abe837894e668324eb"
 libc = "glibc"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "5c7e1b8f328aea41ecab8d6a578b4884500613cef9bd1a628ac6c3d144b4bd84"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "3203c7ffaa932541e5ca51888b4b281f4dcd648b81bf8a4cf3e7dbdf0ab6def0"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Poppler]]
 arch = "x86_64"
-git-tree-sha1 = "ea6c37f69d85893d948ddeb04d122861b9d4d28c"
+git-tree-sha1 = "ad76fa3bc41ef524590561843fe59fa7f5aeac58"
 os = "macos"
 
     [[Poppler.download]]
-    sha256 = "1dec05413cda85508530eb4d46390fa4fdc1d299c4102f98317af307b90ad849"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "ceff72f2f2ad153c5633afa84c7754cf9b4e80afe6467957e3ee215fb10a35ca"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.x86_64-apple-darwin.tar.gz"
 [[Poppler]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "256afa603aded5a4496b44bbea22a90899906c83"
+git-tree-sha1 = "732c0050a38cce8c97fa7bb3b768087af2a9ace2"
 libc = "glibc"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "cc3b40ce27627646247d163e7d3f3d1643272f5f258ed024b761f45692c58d9c"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "5ea2bd7a450f7084e3323f0a4f7dbdb46fabde503280a7ac5debd7f90406f5d4"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[Poppler]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "57a6cca84c860bab34c0552bc011d91b279d62f1"
+git-tree-sha1 = "6ef8ccc92e31074463722e05ba34289cc2edbfc4"
 libc = "glibc"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "8688a8d81ac47db2748a0964c9f528c5c9b03494e76bba3ac86780e43aaed966"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "b818a063f8eaf3c169091c606c2be42fe7c764afc0d93c26e51eddca94b19346"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[Poppler]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3587d3737972105f39b68354b0ea6f40da1a0a7f"
+git-tree-sha1 = "84eb787fc071d705dc03f00d127c1300d02b8977"
 libc = "musl"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "d6cdfdf87a997d26d1aedecaea4efe64fda64318f697567889d2d03b8f0db0e0"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "3c6f03ddbd126bf52886b908ce149eae037c759c58144b6ae756a0298b3a8a29"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.x86_64-linux-musl-cxx03.tar.gz"
 [[Poppler]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5c6a44cd92659c1f5915c2beb6e91db8813fb5ba"
+git-tree-sha1 = "8448038795eeb50d4d3f56243a3c8e253bdd7cb0"
 libc = "musl"
 os = "linux"
 
     [[Poppler.download]]
-    sha256 = "bb03116d4db5ed96d639133382aae5beb0e16143e5aff17d263dbd7cca44ecbd"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "9e419bde8dfe8d96c293bf83fcce9e9c6a265f5d81200686c2211e6715a36b08"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.x86_64-linux-musl-cxx11.tar.gz"
 [[Poppler]]
 arch = "x86_64"
-git-tree-sha1 = "f36e8bb1f5089d974d7189ddf70858e1e7f62bf8"
+git-tree-sha1 = "c273d5385ac9bc42d8a82a2c725cfc71c37e99a4"
 os = "freebsd"
 
     [[Poppler.download]]
-    sha256 = "5a7c877600d629bc295ccd4781b63e5b4cc073b7a66f6c652c3a193d5bda9007"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "096f08e05db98267069104432f99fc7e52b8dd4962337903fdc92436919de055"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.x86_64-unknown-freebsd.tar.gz"
 [[Poppler]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8d92db791af269ec7789c82d2552534e5ca5157f"
+git-tree-sha1 = "e2178dd4d6d61fc45893f21db96455f4d061da9d"
 os = "windows"
 
     [[Poppler.download]]
-    sha256 = "60b9f3524685ff5973f88fd9772f8d79cdacc749f48008bd7dbc0952dff40a79"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "2ef240a8b8a009503704408d336a3c7a24e9bd937c44c70528c8898fcce2b23e"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Poppler]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3b72a49ac18cc3b55baf2a4ec747ac087da884bd"
+git-tree-sha1 = "f52422f26d0d2716d0e7aa02a01655199113ffa3"
 os = "windows"
 
     [[Poppler.download]]
-    sha256 = "4d23cb8cf467f5ad8d73aa1e1f2dfaac5aa9d34a39895205f8c20dafea14e951"
-    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.5.0+0/Poppler.v24.5.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "6acfc65ca348701f37747cb92c30517d128db23db78d74a2e8dcad6368efa3f4"
+    url = "https://github.com/JuliaBinaryWrappers/Poppler_jll.jl/releases/download/Poppler-v24.6.0+0/Poppler.v24.6.0.x86_64-w64-mingw32-cxx11.tar.gz"
